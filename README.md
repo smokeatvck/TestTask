@@ -18,4 +18,4 @@ Backend:<br />
 • Swagger<br />
 • EntityFramework<br />
 • Clean arhitecture<br />
-• Testing - XUnit<br />
+• Testing - XUnit, Moq<br />
