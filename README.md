@@ -24,4 +24,4 @@ Backend:<br />
 
 <br /> 
 Внешний вид пользовательского интерфейса<br /> 
-![image](https://github.com/user-attachments/assets/2bc0ce84-d3b0-4787-afd9-72f163725909)
+https://github.com/user-attachments/assets/2bc0ce84-d3b0-4787-afd9-72f163725909
