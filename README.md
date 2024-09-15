@@ -12,6 +12,7 @@ Frontend:<br />
 • React<br />
 • Axios<br />
 • Redux<br />
+• Typescript<br />
 <br />
 Backend:<br />
 • .NET 8<br />
