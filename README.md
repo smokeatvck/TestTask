@@ -7,6 +7,7 @@
 • В файле "appsettings.json", секции "Cors" проекта Poster.WebApi необходимо указать адрес сервера на котором располагается "Фронтенд" часть для выполнения
   кросс-доменные запросы.<br />
 • В файле ".env" проекта Poster.UI для переменной "VITE_POSTS_SERVER" необходима указать адрес сервера "Poster.WebApi" для выполнения запросов на управление постами.<br />
+• База данных заполняется тестовыми данными в количестве 1500 штук.
 <br />
 Frontend:<br />
 • React<br />
@@ -17,6 +18,10 @@ Frontend:<br />
 Backend:<br />
 • .NET 8<br />
 • Swagger<br />
-• EntityFramework<br />
+• EntityFramework, SqlLite<br />
 • Clean arhitecture<br />
 • Testing - XUnit, Moq<br />
+
+<br /> 
+Внешний вид пользовательского интерфейса<br /> 
+![image](https://github.com/user-attachments/assets/2bc0ce84-d3b0-4787-afd9-72f163725909)
